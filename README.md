@@ -23,4 +23,4 @@ Get Single Employee  (employee id = 6)           |  Post (create) Employee
 
 Update Employeee            
 
-![](put.png) |  
+![](put.png) 
