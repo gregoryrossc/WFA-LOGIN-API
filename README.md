@@ -13,3 +13,8 @@ Delete Employee:![](delete.png)
 Get Single Emplyee:![](get1.png)
 Post (Create) Employee:![](postjsondata.png)
 Put (Update) Employee:![](put.png)
+
+
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://...Dark.png)  |  ![](https://...Ocean.png)
