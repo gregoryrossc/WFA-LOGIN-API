@@ -12,11 +12,11 @@ Successful Login Example:
 ![](login.png)
 Get All Employee's:
 ![](getall.png)
-Put (Update) Employee:
-![](put.png)
 Delete Employee:
 ![](delete.png)
 Get Single Emplyee:
 ![](get1.png)
 Post (Create) Employee:
 ![](postjsondata.png)
+Put (Update) Employee:
+![](put.png)
