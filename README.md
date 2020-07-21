@@ -7,11 +7,6 @@ Allows user to login and make calls to the restful API at https://reqres.in/
 - GET, POST, PUT & DELETE employee's
 
 
-Get All Employee's:![](getall.png)
-Delete Employee:![](delete.png)
-Get Single Emplyee:![](get1.png)
-Post (Create) Employee:![](postjsondata.png)
-Put (Update) Employee:![](put.png)
 
 
 Invalid Login Example            |  Successful Login Example
@@ -26,6 +21,6 @@ Get Single Employee             |  Post (create) Employee
 :-------------------------:|:-------------------------:
 ![](get1.png) |  ![](postjsondata.png)
 
-Update Employeee            |  Solarized Ocean
+Update Employeee            |  
 :-------------------------:|:-------------------------:
-![](put.png) |  ![](postjsondata.png)
+![](put.png) |  
