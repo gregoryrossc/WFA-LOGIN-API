@@ -8,7 +8,6 @@ Allows user to login and make calls to the restful API at https://reqres.in/
 
 
 
-
 Invalid Login Example            |  Successful Login Example
 :-------------------------:|:-------------------------:
 ![](invalidUser.png) |  ![](login.png)
