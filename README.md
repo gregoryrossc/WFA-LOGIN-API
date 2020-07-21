@@ -17,10 +17,10 @@ Get All Employee's             |  Delete Employee
 :-------------------------:|:-------------------------:
 ![](getall.png) |  ![](delete.png)
 
-Get Single Employee             |  Post (create) Employee
+Get Single Employee  (employee id = 6)           |  Post (create) Employee
 :-------------------------:|:-------------------------:
 ![](get1.png) |  ![](postjsondata.png)
 
 Update Employeee            |  
-:-------------------------:|:-------------------------:
+
 ![](put.png) |  
