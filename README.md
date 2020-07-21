@@ -6,17 +6,17 @@ Allows user to login and make calls to the restful API at https://reqres.in/
 - Login
 - GET, POST, PUT & DELETE employee's
 
--Invalid Login Example:
+Invalid Login Example:
 ![](invalidUser.png)
--Successful Login Example:
+Successful Login Example:
 ![](login.png)
--Get All Employee's:
+Get All Employee's:
 ![](getall.png)
--Put (Update) Employee:
+Put (Update) Employee:
 ![](put.png)
--Delete Employee:
+Delete Employee:
 ![](delete.png)
--Get Single Emplyee:
+Get Single Emplyee:
 ![](get1.png)
--Post (Create) Employee:
+Post (Create) Employee:
 ![](postjsondata.png)
