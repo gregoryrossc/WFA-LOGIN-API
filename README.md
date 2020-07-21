@@ -21,6 +21,6 @@ Get Single Employee  (employee id = 6)           |  Post (create) Employee
 :-------------------------:|:-------------------------:
 ![](get1.png) |  ![](postjsondata.png)
 
-Update Employeee            |  
+Update Employeee            
 
 ![](put.png) |  
