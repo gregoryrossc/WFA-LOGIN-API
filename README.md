@@ -17,4 +17,4 @@ Put (Update) Employee:![](put.png)
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![](https://...Dark.png)  |  ![](https://...Ocean.png)
+![](put.png) |  ![](postjsondata.png)
